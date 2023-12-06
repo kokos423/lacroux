@@ -1,0 +1,19 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+
+#forma{
+    margin-bottom: 40px !important;
+}
+
+#forma select{
+    width: 25%;
+}
+
+@media screen and (max-width: 1026px) {
+    #team .team-img {
+        display: none;
+   }
+}
